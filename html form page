@@ -5,4 +5,5 @@
 Username:<input type="text" name="a1"><br>
 Email ID:<input type="text" name="a2"><br>
 Password:<input type="Password" name="p1"><br>
+<input type="button" name="b1" value="submit">
 </body></form</html>
